@@ -7,7 +7,7 @@
 <itunes:explicit>clean</itunes:explicit>
 <description>Дневное шоу физика Александра Пушного и лирика Маргариты Митрофановой.</description>
 <itunes:summary>Дневное шоу физика Александра Пушного и лирика Маргариты Митрофановой.</itunes:summary>
-<itunes:author>Коля Пионеров</itunes:author>
+<itunes:author>10.09.25</itunes:author>
 <itunes:image href="https://cdn-st2.rtr-vesti.ru/vh/pictures/it/430/192/1.png"/>
 <itunes:category text="Society & Culture"/>
   <item>
@@ -4202,4 +4202,5 @@ Sophie Ellis-Bextor – Murder On The Dancefloor</itunes:summary>
     <enclosure url="https://cdn-v.smotrim.ru/audio/mp3/test/001/268/404.mp3"/>
   </item>
 </channel>
+
 </rss>
