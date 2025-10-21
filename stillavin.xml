@@ -7,7 +7,7 @@
         <itunes:explicit>clean</itunes:explicit>
         <description>Утреннее шоу Сергея Стиллавина.</description>
         <itunes:summary>Утреннее шоу Сергея Стиллавина.</itunes:summary>
-        <itunes:author>Коля Пионеров</itunes:author>
+        <itunes:author>21.10.25</itunes:author>
         <itunes:image href="https://cdn-st4.rtr-vesti.ru/vh/pictures/it/334/875/1.png"/>
         <itunes:category text="Society &amp; Culture"/>
   <item>
@@ -4503,3 +4503,4 @@ Marc De Loutcher – Le Foulard/ Platok</itunes:summary>
   </item>
 </channel>
 </rss>
+
